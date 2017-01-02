@@ -1,0 +1,10 @@
+[user]
+	name = Michael Rose
+	email = michael_rose@outlook.com
+[alias]
+	st = status
+	co = checkout
+	ci = commit
+	br = branch
+[core]
+	excludesfile = ~/.gitignore
