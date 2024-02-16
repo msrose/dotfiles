@@ -1,6 +1,6 @@
-curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.0/install.sh | bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 
-source ~/.bashrc
+source ~/.zshrc
 
 echo "Installing latest Node.js LTS..."
 nvm install --lts
