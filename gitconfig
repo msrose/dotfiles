@@ -8,3 +8,4 @@
 	br = branch
 [core]
 	excludesfile = ~/.gitignore
+	pager = less -X -F
